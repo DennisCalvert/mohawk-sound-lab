@@ -40,7 +40,8 @@ header {
 
 .hero-section {
   height: 100vh;
-  background: url("studio-bg.jpg") no-repeat center center/cover;
+  background: url("https://magiccityfilmmakers.s3.us-east-2.amazonaws.com/galleries/66fc5aac30ea63a8792c61c3/images/l/66fc607d30ea63a8792c61d3.jpeg")
+    no-repeat center center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -115,6 +116,10 @@ header {
   text-align: center;
 }
 
+.contact-form {
+  max-width: 600px;
+  margin: 0 auto;
+}
 .contact-form input,
 .contact-form textarea {
   width: 100%;
